@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="16px"
+    android:paddingVertical="50px"
+    android:backgroundTint="@color/white"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/dialog_shop_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naveen Thele Wala"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16px"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/dialog_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Naveen Saini"
+        android:layout_marginTop="16px"
+        android:textSize="16sp"
+        android:textColor="#383838"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16px">
+        <ImageView
+            android:layout_width="40px"
+            android:layout_height="40px"
+            android:src="@drawable/ic_baseline_call_24"/>
+
+        <TextView
+            android:id="@+id/dialog_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10px"
+            android:textSize="13sp"
+            android:text="9080706050"
+            android:textColor="#383838"/>
+    </LinearLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16px">
+        <Button
+            android:id="@+id/dialog_menu"
+            android:layout_width="0px"
+            android:layout_height="0px"
+            android:text="Menu Items"
+            android:textColor="@color/white"
+            android:backgroundTint="#61E788"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/dialog_direction"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/dialog_direction"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:backgroundTint="#B1B1B1"
+            android:src="@drawable/ic_baseline_directions_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

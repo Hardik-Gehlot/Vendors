@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "project_number": "409961205026",
+    "firebase_url": "https://fir-c2239-default-rtdb.firebaseio.com",
+    "project_id": "fir-c2239",
+    "storage_bucket": "fir-c2239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409961205026:android:3225024ff000d40268697b",
+        "android_client_info": {
+          "package_name": "com.hardik.captionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409961205026-9hr31bh3tn4n7slitieqgp91k4ebiqn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hardik.captionapp",
+            "certificate_hash": "698681ef8a3c2abd8101e7c392970d5f10e06891"
+          }
+        },
+        {
+          "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxy0pQ8iU2ZBposBmsGsF9duPQ3E8aSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409961205026:android:aa50b06ae5ce4dec68697b",
+        "android_client_info": {
+          "package_name": "com.hardik.gst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxy0pQ8iU2ZBposBmsGsF9duPQ3E8aSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409961205026:android:1352a785b89b65f268697b",
+        "android_client_info": {
+          "package_name": "com.hardik.storyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxy0pQ8iU2ZBposBmsGsF9duPQ3E8aSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409961205026:android:4861b8f073d3a84868697b",
+        "android_client_info": {
+          "package_name": "com.hardik.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxy0pQ8iU2ZBposBmsGsF9duPQ3E8aSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409961205026:android:46577756ad3c9f4b68697b",
+        "android_client_info": {
+          "package_name": "com.hardik.udhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxy0pQ8iU2ZBposBmsGsF9duPQ3E8aSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409961205026:android:ecbf78f7ce20792a68697b",
+        "android_client_info": {
+          "package_name": "com.hardik.vendors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxy0pQ8iU2ZBposBmsGsF9duPQ3E8aSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409961205026-58v356rp1rmk5ch24mboc09ir18bf8lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

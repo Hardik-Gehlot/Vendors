@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dashboard">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        android:paddingLeft="35dp"
+        android:paddingRight="35dp"
+        android:paddingTop="70dp"
+        android:paddingBottom="70dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/dashboardshopName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_extrabold"
+            android:text="Momos Wale Kalu bhai"
+            android:textColor="@color/green"
+            android:textSize="30sp"  />
+
+        <TextView
+            android:id="@+id/dashboardname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_medium"
+            android:text="Kalu Bhai"
+            android:textColor="@color/black"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/dashboardemail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter"
+            android:text="Momoswalekalu@gmail.com"
+            android:textColor="#5A5A5A"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/dashboardphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter"
+            android:text="9085402010"
+            android:textColor="#5A5A5A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/updateLocation"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginTop="40dp"
+            app:backgroundTint="@color/green"
+            android:textColor="@color/white"
+            android:text="Update Your Location" />
+
+        <Button
+            android:id="@+id/browseVendors"
+            android:layout_width="match_parent"
+            android:layout_marginTop="30dp"
+            android:layout_height="57dp"
+            android:text="Browse Vendors"
+            app:backgroundTint="@color/editTextBackground"
+            android:textColor="@color/green"/>
+        <Button
+            android:id="@+id/signout"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginTop="40dp"
+            app:backgroundTint="@color/green"
+            android:textColor="@color/white"
+            android:text="Signout" />
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/addItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="16dp"
+        android:contentDescription="Request"
+        android:src="@drawable/ic_baseline_add_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
