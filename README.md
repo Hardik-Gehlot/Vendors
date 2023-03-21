@@ -56,7 +56,7 @@ Vendor finder platforms offer greater transparency in the procurement process by
 
 ## Project Video Explanation :-
 
-- ![Drive Link](https://drive.google.com/file/d/1Eg9jCxujbxW_brsGbsQOWPySW3ykIlMC/view?usp=share_link)
+https://drive.google.com/file/d/1Eg9jCxujbxW_brsGbsQOWPySW3ykIlMC/view?usp=sharing
 
 
 ## Features
