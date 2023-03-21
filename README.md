@@ -9,6 +9,9 @@ Vendor finders are online platforms or services that help connect buyers with po
 
 ![Vendors Finder](https://firebasestorage.googleapis.com/v0/b/fir-c2239.appspot.com/o/hackathon%2Ficons8-food-cart-96.png?alt=media&token=4d8a1055-1f19-4575-89ce-7330201f9171)
 
+## Download the App (Deployment) :-
+- [Here is the link for downloading the application](https://drive.google.com/file/d/1750tI03OYK_zFadqyiiVUQK6VNcVSodM/view?usp=share_link)
+
 
 ## Key Advantages
 ### Easy Access :
@@ -51,7 +54,9 @@ Vendor finder platforms offer greater transparency in the procurement process by
 <img src="https://firebasestorage.googleapis.com/v0/b/fir-c2239.appspot.com/o/hackathon%2Fregister.jpeg?alt=media&token=7dcd94aa-7113-4034-a7bc-166c007c378b" alt="Client 3" title="Client 3" style="height:25%; width:30%" />
 
 
+## Project Video Explanation :-
 
+- ![Drive Link](https://drive.google.com/file/d/1Eg9jCxujbxW_brsGbsQOWPySW3ykIlMC/view?usp=share_link)
 
 
 ## Features
